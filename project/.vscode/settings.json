@@ -1,0 +1,9 @@
+{
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 130,
+    "editor.rulers": [
+        140
+    ],
+    "html.format.wrapLineLength": 120,
+    "python.linting.pylintEnabled": true
+}
